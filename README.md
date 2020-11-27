@@ -1,7 +1,7 @@
 # break-delete 
 
 ## Description
-EmEditor上で開いたテキストの改行を削除するマクロ
+A macro to remove line breaks in text opened on EmEditor.
 
 ## Requires
 - EmEditor
