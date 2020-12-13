@@ -1,7 +1,7 @@
 # break-delete 
 
 ## Description
-A macro to remove line breaks in text opened on EmEditor.
+A macro to remove line breaks in text opened on **EmEditor**.
 
 ## Requires
 - EmEditor
