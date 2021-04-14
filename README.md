@@ -4,7 +4,7 @@
 A macro to remove line breaks in text opened on **EmEditor**.
 
 ## Requires
-- EmEditor
+- EmEditor Professional  
 
 ## License
 MIT
